@@ -1,4 +1,5 @@
 # US-Bike-Share
+![Cover Image](https://camo.githubusercontent.com/b7735976ee3862a2bc5d191887c8346b60470c0f754a48647008963ce49acb71/68747470733a2f2f766964656f2e756461636974792d646174612e636f6d2f746f706865722f323031382f4d617263682f35616137373138645f64697676792f64697676792e6a7067)
 # Project Overview: Overview
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States - Chicago, New York City, and Washington. I have written code to import the data and answer interesting questions about it by computing descriptive statistics. I have also written a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
